@@ -1,3 +1,5 @@
-# Simple Worldbuilding System
+# Exalted 3rd Edition System for Foundry VTT
 
-A simple game system for Foundry VTT which allows for flexible definition of Actors and Items to assist with worldbuilding or for running games which do not have a more complete system implementation available.
+An implementation of the Exalted 3rd Edition ruleset for Foundry VTT. This is 
+very much a work in progress, and currently offers little over the Simple
+Worldbuilding Foundry VTT system.

@@ -1,21 +1,25 @@
 {
-  "name": "worldbuilding",
-  "title": "Simple World-Building",
-  "description": "A minimalist game system with very simple Actor and Item models to support free-form system agnostic gameplay.",
-  "version": 0.33,
+  "name": "exalted",
+  "title": "Exalted 3rd Edition",
+  "description": "An implementation of the Exalted 3rd Edition for Foundry VTT (WIP).",
+  "version": 0.01,
   "minimumCoreVersion": "0.5.2",
   "compatibleCoreVersion": "0.5.3",
   "templateVersion": 2,
-  "author": "Atropos",
-  "esmodules": ["module/simple.js"],
-  "styles": ["styles/simple.css"],
+  "author": "r-potter",
+  "esmodules": [
+    "module/simple.js"
+  ],
+  "styles": [
+    "styles/simple.css"
+  ],
   "packs": [],
   "languages": [],
   "gridDistance": 5,
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "https://gitlab.com/foundrynet/worldbuilding/",
+  "url": "https://github.com/r-potter/foundry-vtt-exalted-3ed",
   "manifest": "https://gitlab.com/foundrynet/worldbuilding/raw/master/system.json",
   "download": "https://gitlab.com/foundrynet/worldbuilding/-/archive/master/worldbuilding-master.zip"
 }
