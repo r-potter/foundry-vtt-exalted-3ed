@@ -20,6 +20,6 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/r-potter/foundry-vtt-exalted-3ed",
-  "manifest": "https://github.com/r-potter/foundry-vtt-exalted-3ed/blob/master/system.json",
+  "manifest": "https://raw.githubusercontent.com/r-potter/foundry-vtt-exalted-3ed/master/system.json",
   "download": "https://github.com/r-potter/foundry-vtt-exalted-3ed/archive/master.zip"
 }
