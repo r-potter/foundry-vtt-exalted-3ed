@@ -8,10 +8,10 @@
   "templateVersion": 2,
   "author": "r-potter",
   "esmodules": [
-    "module/simple.js"
+    "module/exalted.js"
   ],
   "styles": [
-    "styles/simple.css"
+    "styles/exalted.css"
   ],
   "packs": [],
   "languages": [],
@@ -20,6 +20,6 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/r-potter/foundry-vtt-exalted-3ed",
-  "manifest": "https://gitlab.com/foundrynet/worldbuilding/raw/master/system.json",
-  "download": "https://gitlab.com/foundrynet/worldbuilding/-/archive/master/worldbuilding-master.zip"
+  "manifest": "https://github.com/r-potter/foundry-vtt-exalted-3ed/blob/master/system.json",
+  "download": "https://github.com/r-potter/foundry-vtt-exalted-3ed/archive/master.zip"
 }
