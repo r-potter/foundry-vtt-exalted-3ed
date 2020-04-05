@@ -2,7 +2,7 @@
   "name": "exalted",
   "title": "Exalted 3rd Edition",
   "description": "An implementation of the Exalted 3rd Edition for Foundry VTT (WIP).",
-  "version": 0.04,
+  "version": 0.05,
   "minimumCoreVersion": "0.5.2",
   "compatibleCoreVersion": "0.5.3",
   "templateVersion": 2,
