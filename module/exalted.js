@@ -4,6 +4,7 @@
  */
 
 // Import Modules
+import {DiceExalted} from '../dice.js';
 import {SimpleActorSheet} from './actor-sheet.js';
 import {SimpleItemSheet} from './item-sheet.js';
 
@@ -13,13 +14,18 @@ import {SimpleItemSheet} from './item-sheet.js';
 /* -------------------------------------------- */
 
 Hooks.once('init', async function() {
-  console.log(`Initializing Exalted System`);
+  console.log(`Initializing Exalted System. Welcome to Creation.`);
 
   /**
    * Set an initiative formula for the system
    * @type {String}
    */
   CONFIG.Combat.initiative = {formula: '1d20', decimals: 2};
+
+  /**
+   * Add the Exalted dice roller.
+   */
+  game.exalted = {DiceExalted};
 
   // Register sheet application classes
   Actors.unregisterSheet('core', ActorSheet);
