@@ -4,9 +4,9 @@
  */
 
 // Import Modules
-import {DiceExalted} from '../dice.js';
 import {SimpleActorSheet} from './actor-sheet.js';
 import {SimpleItemSheet} from './item-sheet.js';
+import {DiceExalted} from './module/dice.js';
 
 
 /* -------------------------------------------- */
